@@ -4,7 +4,7 @@
 
 FROM php:7.2-cli
 
-MAINTAINER Jamsheer Kandoth <jamsheer.kandoth@gmail.com>
+MAINTAINER Jamsheer <jamsheer.kandoth@gmail.com>
 
 # Install dependencies
 RUN apt-get update \
